@@ -1,4 +1,4 @@
-# Welcome to my GitHub profile! 👋
+# Hello there ! 👋
 
 I'm a Full Stack developer passionate about creating innovative and functional solutions.
 My experience includes various projects, ranging from social networks and mobile applications to web-based multiplayer games.
